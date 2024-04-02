@@ -1,0 +1,26 @@
+BUSINESS INSIGHTS
+
+1. Movies constitute approx. 70 % of the total content,rest 30 % are TV Shows.
+2. We can clearly see here that Netflix started uploading content on its platform in 2008.The amount of content uploaded has increased since 2012. It peaked in 2019 and took and slight dip in 2020 .
+3. Most of the movies lies between the time duration bracket of 80 min to 120 min with maximum amount of movies approx 100 min long.
+4. We can clearly see that the maximum number of TV Shows are added on Friday. Sunday has the least number of TV Shows uploaded.
+5. The highest amount of TV Shows are added in December followed by July.The least number of Shows were uploaded in February.
+6. We can clearly see that the number of TV Shows released has increased over the years. Since,2017 the gap between number of Movies and TV Shows has been reducing. In fact, as of 2021 the number of TV Shows has surpassed the number of Movies.So, we can say that Netflix has shifted its focus on TV Shows.
+7. United States leads by a huge margin in terms of content production which is followed by India and United Kingdom.
+8. India has produced approx. 12 times more movies that TV Shows, while this ratio in US and UK is roughly 2-2.5 times.
+9. Julie Tejwani followed by Anupam Kher has the maximum number of movies in the last 15 years.
+10. Rajiv Chilaka has directed maximum number of movies. Ken Burns and Alastair Fothergill has directed most number of TV Shows.
+11. Top 3 genres in India are International Movies,Dramas and Comedies.
+12. Almost 37 %(3214 in numbers) of content of Netflix is of TV-MA followed by TV-14 which constitutes 25 %. NC-17 and UR ratings have the least content.
+13. India has TV-MA,TV-14 and TV-PG as top ratings which generally suitable for above 14 and mature audience.
+
+RECOMMENDATIONS
+
+1. As audience generally prefer to higher screen time on weekend , Netflix should prefer uploading content on Friday night or Saturday.
+2. During summer vacations , Christmas and New Year time people have more time to spend on OTT platforms . Netflix should prefer to upload content in December, June and July months.
+3. Netflix should lay its focus on TV shows in India as Movies count is almost 12 times as that of TV Shows here .
+4. The movie duration should be kept below 120 mins as people don't prefer to watch long duration movies due to busy lifestyle.
+5. In India, Netflix need to pay attention on making Child & Family Movies and TV Shows and Documentaries .
+6. Due to societal backlash ,regulatory hurdles  and cultural differences , Netflix should avoid producing Adult Rated content in South Asia .
+7. Netflix should cast popular names like Anupam Kher, Naseeruddin Shah, Shahrukh khan, Akshay Kumar , Paresh Rawal and Amitabh Bachchan .
+8. As we see that there is a dip added content in 2020 and 2021  probably due to COVID-19, Netflx should increase the production activity as the situation has improved.
